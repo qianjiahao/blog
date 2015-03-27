@@ -1,0 +1,16 @@
+[2015-03-26 17:06:17.094] [INFO] normal - lala
+[2015-03-26 17:07:59.043] [INFO] normal - lala
+[2015-03-26 17:07:59.075] [WARN] normal - GET /
+[2015-03-26 17:26:48.276] [ERROR] normal - GET /
+[2015-03-26 17:27:33.701] [INFO] normal - GET /
+[2015-03-26 17:27:34.797] [WARN] normal - GET /
+[2015-03-26 17:27:35.961] [WARN] normal - GET /archive
+[2015-03-26 17:27:37.989] [INFO] normal - GET /u/william/2015-03-25/william's%20text
+[2015-03-27 08:08:37.228] [INFO] normal - GET /
+[2015-03-27 08:10:48.505] [INFO] normal - GET /
+[2015-03-27 08:13:16.030] [INFO] normal - GET /
+[2015-03-27 08:13:28.188] [INFO] normal - GET /
+[2015-03-27 08:14:20.944] [WARN] normal - GET /archive
+[2015-03-27 08:14:21.683] [INFO] normal - GET /
+[2015-03-27 08:14:43.896] [INFO] normal - GET /tags/6
+[2015-03-27 08:14:45.022] [WARN] normal - GET /
