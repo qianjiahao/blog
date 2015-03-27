@@ -1,5 +1,5 @@
-### blog###
+### blog
 
-####a simple blog#### 
+####a simple blog
 
-
+random head image -- topic of cat!
