@@ -13,12 +13,7 @@
     <a href="/u/<%= user.name%>"><div class="head-name"><%= user.name%></div><img width="100" class="head" src="/images/head-images/<%= user.head%>.jpg"></a>
     <%}%>
 </header>
-<span>
-    <form action="/search" method="GET">
-        <input type="text" name="keyword" placeholder="search" class="search">
-        <input type="submit" value="search">
-    </form>
-</span>
+
 <nav>
     <span><a href="/" title="home">home</a></span>
     <span><a href="/archive" title="archive">archive</a></span>
@@ -32,6 +27,11 @@
     <span><a href="/login" title="login">login</a></span>
     <span><a href="/reg" title="register">register</a></span>
     <% } %>
+    <span>
+    <form action="/search" method="GET">
+        <input type="text" name="keyword" placeholder="SEARCH" class="search">
+    </form>
+</span>
 </nav>
 <article>
     <% if(success){ %>
